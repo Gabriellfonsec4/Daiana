@@ -7,10 +7,8 @@
   --rose-dark: #8f5e59;
   --gold: #d2ae91;
   --line: rgba(23, 19, 16, 0.14);
-
-  --font-display: "DM Serif Display", Georgia, serif;
-  --font-body: "Manrope", Arial, sans-serif;
-
+  --font-display: "Italiana", Georgia, serif;
+  --font-body: "DM Sans", Arial, sans-serif;
   --container: min(1180px, calc(100% - 48px));
 }
 
